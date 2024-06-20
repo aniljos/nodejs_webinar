@@ -1,0 +1,12 @@
+{
+  "name": "aj-string-functions-lib",
+  "version": "1.0.0",
+  "description": "String functions for demonstration",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anil Joseph",
+  "license": "ISC"
+}
